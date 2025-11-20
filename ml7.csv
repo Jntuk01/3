@@ -1,0 +1,11 @@
+Age,BloodPressure,Cholesterol,ChestPain,HeartDisease
+Young,Normal,Normal,NoPain,No
+Young,High,High,HighPain,Yes
+Middle,Normal,Borderline,LowPain,No
+Middle,High,High,HighPain,Yes
+Old,High,High,HighPain,Yes
+Old,VeryHigh,High,HighPain,Yes
+Young,Normal,Borderline,LowPain,No
+Middle,VeryHigh,High,HighPain,Yes
+Old,Normal,Borderline,LowPain,No
+Young,High,Borderline,LowPain,No
